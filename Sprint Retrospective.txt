@@ -1,0 +1,10 @@
+SPRINT RETROSPECTIVE
+
+O que funcionou bem:
+Foi possível criar as branches, realizar as alterações, efetuar os commits, realizar o merge e enviar o projeto para o GitHub.
+
+O que não funcionou bem:
+Ocorreram dificuldades durante a configuração inicial do Git e durante o processo de merge das branches.
+
+Sugestões de melhoria:
+Planejar melhor a sequência dos comandos Git e verificar o estado do repositório antes de realizar merges e pushes.
