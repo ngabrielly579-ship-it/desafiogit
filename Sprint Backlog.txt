@@ -1,0 +1,16 @@
+SPRINT BACKLOG
+
+Projeto: Atualização do portal da empresa
+
+Histórias selecionadas para o Sprint:
+
+História 1
+Alterar a cor do nome dos veículos para azul no arquivo index.html.
+Esforço estimado: 2 pontos.
+
+História 3
+Alterar a descrição dos links no arquivo contato.html.
+Esforço estimado: 2 pontos.
+
+Esforço total do Sprint:
+4 pontos.
