@@ -7,4 +7,4 @@ O que não funcionou bem:
 Ocorreram dificuldades durante a configuração inicial do Git e durante o processo de merge das branches.
 
 Sugestões de melhoria:
-Planejar melhor a sequência dos comandos Git e verificar o estado do repositório antes de realizar merges e pushes.
+Nada a comentar
